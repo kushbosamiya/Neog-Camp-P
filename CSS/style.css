@@ -57,6 +57,11 @@ body {
     text-decoration: none;
     list-style: none;
   }
+  ul .non-bullet-item
+  {
+    list-style: none;
+    text-decoration: none;
+  }
   
   .primary-links {
     background-color: var(--primary-color);
