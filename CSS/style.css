@@ -33,6 +33,7 @@ body {
   /** container **/
   .contain {
     padding: 1rem 5rem;
+    text-align: left;
   }
   
   .center-container {
@@ -44,6 +45,7 @@ body {
     border-radius: 5px;
     margin-top: 1rem;
     margin-bottom: 0rem;
+    
   }
   
   /** links **/
