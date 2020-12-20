@@ -59,7 +59,7 @@ body {
     text-decoration: none;
     list-style: none;
   }
-  li .non-bullet-item
+  ul,li ,article
   {
     list-style: none;
     text-decoration: none;
