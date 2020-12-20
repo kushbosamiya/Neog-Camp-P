@@ -220,4 +220,8 @@ body {
   #logo {
     font-size: 2rem;
   }
-  
+  #blog
+  {
+    text-decoration: none;
+    list-style: none;
+  }
